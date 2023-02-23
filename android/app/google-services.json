@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "353926990259",
+    "project_id": "codimapp-a45b0",
+    "storage_bucket": "codimapp-a45b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353926990259:android:6e4deb9fec9665173de3c6",
+        "android_client_info": {
+          "package_name": "my.caspian.codimappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353926990259-osoim67snd33u90cnirtm9q5fedn1fup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.caspian.codimappp",
+            "certificate_hash": "65cd6c5a8251ca820afb21e0f0b5e6021459508f"
+          }
+        },
+        {
+          "client_id": "353926990259-1ldkrihb8jara8prv5cnokn4v0vn9bu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmeJJ8QrKyA3xEBat1fbS4MwI2TC5_wws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353926990259-1ldkrihb8jara8prv5cnokn4v0vn9bu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353926990259-s7lrtve7n7vdjgboshkq8jhjibeticmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.caspian.codimappp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
